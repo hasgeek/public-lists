@@ -1,4 +1,4 @@
-This is a compiled list of public datasets and tools related to healthcare for [this](https://fifthelephant.in/2018-june-data-hacknight/) data hacknight. If you are participating in this hacknight, feel free to choose datasets or tools listed here or any other datasets or tools which you know. If you find any relevant dataset or tool missing in this list, send us a pull request.
+This is a list of public datasets and tools related to healthcare compiled for [this](https://fifthelephant.in/2018-june-data-hacknight/) data hacknight. If you are participating in this hacknight, feel free to choose datasets or tools listed here or any other datasets or tools which you know. If you find any relevant dataset or tool missing in this list, send us a pull request.
 
 ## International Health care tools and datasets
 
