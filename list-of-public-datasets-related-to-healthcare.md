@@ -22,7 +22,7 @@ This is a list of public datasets and tools related to healthcare compiled for [
 * [NAACCR](http://www.naaccr.org/) - North American Association of Central Cancer Registries. Non-profit. 
 * [NAHDO](http://www.nahdo.org/) - National Association of Health Data Organizations. US non-profit. 
 * [NAPHSIS](http://www.naphsis.org/) - National Assn for Public Health Statistics & Information Systems. US. 
-* [NCHS 50 Leading Causes of Death (ICD-10)]http://www.ehdp.com/epigram/nchs-icd-10-lcd.htm() - Standard mortality list. 
+* [NCHS 50 Leading Causes of Death (ICD-10)](http://www.ehdp.com/epigram/nchs-icd-10-lcd.htm) - Standard mortality list. 
 * [NCHS 113 Selected Causes of Death (ICD-10)](http://www.ehdp.com/epigram/nchs113.htm) - Standard mortality list. 
 * [NCHS 358 Selected Causes of Death (ICD-10)](http://www.ehdp.com/epigram/nchs358.htm) - Standard mortality list. 
 * [NCHS](http://www.cdc.gov/nchs/) - National Center for Health Statistics. US federal. 
